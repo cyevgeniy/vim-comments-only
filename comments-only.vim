@@ -32,7 +32,14 @@ hi! Typedef  guifg=#333333
 hi! Special  guifg=#333333
 hi! Delimiter  guifg=#333333
 
+hi! Title  guifg=#333333
+
+hi! Pmenu guibg=lightgray guifg=#333333
+hi! PmenuSel guibg=lightgray guifg=#333333 gui=bold
+
 hi! CursorLine guibg=#e3e6e8
+
+hi! MatchParen  guibg=orange guifg=#333333 gui=bold
 
 hi! Visual guibg=#d5d9dd
 
