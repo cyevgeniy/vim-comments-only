@@ -33,6 +33,10 @@ hi! Special  guifg=#333333
 hi! Delimiter  guifg=#333333
 
 hi! Title  guifg=#333333
+hi! Todo  guifg=#333333
+
+" Tree-sitters variable
+hi! @variable  guifg=#333333
 
 hi! Pmenu guibg=lightgray guifg=#333333
 hi! PmenuSel guibg=lightgray guifg=#333333 gui=bold
@@ -44,4 +48,5 @@ hi! MatchParen  guibg=orange guifg=#333333 gui=bold
 hi! Visual guibg=#d5d9dd
 
 hi! Search guibg=#fac761 guifg=#333333
+hi! ErrorMsg guifg=red
 
