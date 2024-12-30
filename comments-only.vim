@@ -34,12 +34,16 @@ hi! Delimiter  guifg=#333333
 
 hi! Title  guifg=#333333
 hi! Todo  guifg=#333333
+hi! Directory  guifg=#333333 gui=bold
 
 " Tree-sitters variable
 hi! @variable  guifg=#333333
 
 hi! Pmenu guibg=lightgray guifg=#333333
 hi! PmenuSel guibg=lightgray guifg=#333333 gui=bold
+
+" For example: xxx file preview when you type import xxx from '../utils/xxx.ts'
+hi! NormalFloat guibg=lightgray guifg=#333333
 
 hi! CursorLine guibg=#e3e6e8
 
