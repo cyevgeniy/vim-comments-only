@@ -54,3 +54,6 @@ hi! Visual guibg=#d5d9dd
 hi! Search guibg=#fac761 guifg=#333333
 hi! ErrorMsg guifg=red
 
+" :set colorcolumn=80, for example
+hi! ColorColumn guibg=#e3e6e8
+
